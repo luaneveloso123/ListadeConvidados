@@ -20,3 +20,36 @@ Lista de Convidados
 
 ![image](https://github.com/luaneveloso123/ListadeConvidados/assets/113206170/0d2aeb8f-51d1-4346-9709-2a806db34c07)
 
+
+//Página inicial
+
+![image](https://github.com/luaneveloso123/ListadeConvidados/assets/113206170/57ecfa73-0e43-4d99-a08c-a8c2d2f4ff54)
+
+//Adicionando um campo vazio
+
+![image](https://github.com/luaneveloso123/ListadeConvidados/assets/113206170/0c717368-c4bb-47f1-95f3-18221e6e715a)
+
+//Adicionado números/caracteres 
+
+![image](https://github.com/luaneveloso123/ListadeConvidados/assets/113206170/951d095e-1b28-4ade-a123-26eee2345f36)
+
+//Adicionando convidados 
+
+![image](https://github.com/luaneveloso123/ListadeConvidados/assets/113206170/069a29a9-d6aa-4b5f-bba9-4dbcbcb4d0d9)
+
+//Riscando convidados utilizando checkbox
+
+![image](https://github.com/luaneveloso123/ListadeConvidados/assets/113206170/dffbe856-deec-41a4-bf5d-2c663250a516)
+
+//Excluindo convidados 
+
+![image](https://github.com/luaneveloso123/ListadeConvidados/assets/113206170/5798dd1f-b2b9-432c-80a8-1423556d155d)
+
+//Excluindo todos 
+
+![image](https://github.com/luaneveloso123/ListadeConvidados/assets/113206170/30131022-1bf0-4e00-93b3-11bff86c3f5e)
+
+
+
+
+
