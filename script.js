@@ -19,14 +19,14 @@ function changebehaveButtonColor(){
 }
     else{
     addTaskButton.style.backgroundColor=getRandomHexColor();
-    addTaskButton.textContent= "Tarefa adicionada";
+    addTaskButton.textContent= "Convidado adicionado";
     changeButtonColorAndText();
     setTimeout(reverterbotao,1000);
     
     }
 }
 function reverterbotao(){
-    addTaskButton.textContent="Adcionar tarefa";
+    addTaskButton.textContent="Adcionar";
     input.value="";
 }
 
@@ -52,7 +52,7 @@ function changeButtonColorAndText(){
     //Verifica se tem apenas letras
     if(taskText!=="" &&  /^[a-zA-Z]+$/.test(taskText)){
     addTaskButton.style.backgroundColor = getRandomHexColor();
-    addTaskButton.textContent = "Tarefa Adicionada";
+    addTaskButton.textContent = "Convidado Adicionado";
 
     const li = document.createElement("li");
     const checkbox = document.createElement("input");
